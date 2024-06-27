@@ -1,0 +1,100 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\angelo.png" />
+    <None Remove="images\angelo2.png" />
+    <None Remove="images\betta.png" />
+    <None Remove="images\betta2.png" />
+    <None Remove="images\bubble.png" />
+    <None Remove="images\conchiglia.png" />
+    <None Remove="images\Crab\cr1.png" />
+    <None Remove="images\Crab\cr2.png" />
+    <None Remove="images\Crab\cr3.png" />
+    <None Remove="images\Crab\cr4.png" />
+    <None Remove="images\Crab\cr5.png" />
+    <None Remove="images\Crab\cr6.png" />
+    <None Remove="images\Crab\cr7.png" />
+    <None Remove="images\Crab\cr8.png" />
+    <None Remove="images\Crab\cr9.png" />
+    <None Remove="images\diver\sp1.png" />
+    <None Remove="images\diver\sp10.png" />
+    <None Remove="images\diver\sp10r.png" />
+    <None Remove="images\diver\sp1r.png" />
+    <None Remove="images\diver\sp2.png" />
+    <None Remove="images\diver\sp2r.png" />
+    <None Remove="images\diver\sp3.png" />
+    <None Remove="images\diver\sp3r.png" />
+    <None Remove="images\diver\sp4.png" />
+    <None Remove="images\diver\sp4r.png" />
+    <None Remove="images\diver\sp5.png" />
+    <None Remove="images\diver\sp5r.png" />
+    <None Remove="images\diver\sp6.png" />
+    <None Remove="images\diver\sp6r.png" />
+    <None Remove="images\diver\sp7.png" />
+    <None Remove="images\diver\sp7r.png" />
+    <None Remove="images\diver\sp8.png" />
+    <None Remove="images\diver\sp8r.png" />
+    <None Remove="images\diver\sp9.png" />
+    <None Remove="images\diver\sp9r.png" />
+    <None Remove="images\flag.png" />
+    <None Remove="images\fondo.jpg" />
+    <None Remove="images\forziere.png" />
+    <None Remove="images\pagliaccio.png" />
+    <None Remove="images\pagliaccio2.png" />
+    <None Remove="images\pr1.png" />
+    <None Remove="images\pr1Reverse.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\angelo.png" />
+    <Resource Include="images\angelo2.png" />
+    <Resource Include="images\betta.png" />
+    <Resource Include="images\betta2.png" />
+    <Resource Include="images\bubble.png" />
+    <Resource Include="images\conchiglia.png" />
+    <Resource Include="images\Crab\cr1.png" />
+    <Resource Include="images\Crab\cr2.png" />
+    <Resource Include="images\Crab\cr3.png" />
+    <Resource Include="images\Crab\cr4.png" />
+    <Resource Include="images\Crab\cr5.png" />
+    <Resource Include="images\Crab\cr6.png" />
+    <Resource Include="images\Crab\cr7.png" />
+    <Resource Include="images\Crab\cr8.png" />
+    <Resource Include="images\Crab\cr9.png" />
+    <Resource Include="images\diver\sp1.png" />
+    <Resource Include="images\diver\sp10.png" />
+    <Resource Include="images\diver\sp10r.png" />
+    <Resource Include="images\diver\sp1r.png" />
+    <Resource Include="images\diver\sp2.png" />
+    <Resource Include="images\diver\sp2r.png" />
+    <Resource Include="images\diver\sp3.png" />
+    <Resource Include="images\diver\sp3r.png" />
+    <Resource Include="images\diver\sp4.png" />
+    <Resource Include="images\diver\sp4r.png" />
+    <Resource Include="images\diver\sp5.png" />
+    <Resource Include="images\diver\sp5r.png" />
+    <Resource Include="images\diver\sp6.png" />
+    <Resource Include="images\diver\sp6r.png" />
+    <Resource Include="images\diver\sp7.png" />
+    <Resource Include="images\diver\sp7r.png" />
+    <Resource Include="images\diver\sp8.png" />
+    <Resource Include="images\diver\sp8r.png" />
+    <Resource Include="images\diver\sp9.png" />
+    <Resource Include="images\diver\sp9r.png" />
+    <Resource Include="images\flag.png" />
+    <Resource Include="images\fondo.jpg" />
+    <Resource Include="images\forziere.png" />
+    <Resource Include="images\pagliaccio.png" />
+    <Resource Include="images\pagliaccio2.png" />
+    <Resource Include="images\pr1.png" />
+    <Resource Include="images\pr1Reverse.png" />
+  </ItemGroup>
+
+</Project>
