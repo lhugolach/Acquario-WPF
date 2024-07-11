@@ -27,3 +27,5 @@ OggettoMarino
 ```
 
 ## Logica e flusso elementi a video
+
+![acquario](images/docs/acquario.gif)
